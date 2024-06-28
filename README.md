@@ -1,2 +1,15 @@
 # Omics Analysis
-Omics analysis : genomic / transcriptomic / metabolomic and meta-omic
+
+## Tools 
+
+### Genomic
+
+Metaplhan3 / HumanN3
+Kraken2 / Maxikraken
+
+
+### Transcriptomic
+
+
+
+### Metabolomic
